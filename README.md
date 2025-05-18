@@ -46,9 +46,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-kumar1-1&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshukumartechnosorous&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-kumar1-1&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshukumartechnosorous&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
